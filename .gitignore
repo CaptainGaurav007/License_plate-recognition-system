@@ -1,0 +1,15 @@
+numb_plate/
+*.log
+*.csv
+*.dat
+*.pickle
+*.pkl
+*.db
+*.sqlite3
+*.json
+*.h5
+*.onnx
+*.pt
+*.pth
+*.weights
+.vscode/
